@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SangeethaN-QA
-- 👀 I’m interested in exploring automation testing Info
+- 👀 I’m interesting to exploring automation testing Info
 - 🌱 I’m currently learning tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://natasatech.wordpress.com/
