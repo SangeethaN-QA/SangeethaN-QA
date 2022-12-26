@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SangeethaN-QA
-- 👀 I’m interesting to exploring automation testing Info
-- 🌱 I’m currently learning tech
+- 👀 I’m interesting to exploring automation testing challenges
+- 🌱 I’m currently working as Automation Test Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://natasatech.wordpress.com/
 
