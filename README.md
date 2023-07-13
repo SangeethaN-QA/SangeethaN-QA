@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SangeethaN-QA
 - 👀 I’m interesting to exploring automation testing challenges
 - 🌱 I’m currently working as Automation Test Engineer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on challenger
 - 📫 How to reach me,
 - YouTube # https://www.youtube.com/c/NATASATech
 - Telgram # https://t.me/NATASATech
