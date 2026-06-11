@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SangeethaN-QA
+- 👋 Hi, I’m @Sangeetha Natarajan
 - 👀 I’m interesting to exploring automation testing challenges
 - 🌱 I’m currently working as Automation Test Engineer
 - 💞️ I’m looking to collaborate on new champion
