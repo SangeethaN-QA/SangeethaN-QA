@@ -6,7 +6,7 @@
 - Linkedin # https://www.linkedin.com/in/sangeethanata/
 - YouTube # https://www.youtube.com/c/NATASATech
 - Wordpress # https://natasatech.wordpress.com/
-- Blogger $ https://natasatechie.blogspot.com/
+- Blogger # https://natasatechie.blogspot.com/
 - Telgram # https://t.me/NATASATech
         
 <!---
