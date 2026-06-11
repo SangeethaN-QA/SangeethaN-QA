@@ -3,6 +3,7 @@
 - 🌱 I’m currently working as Automation Test Engineer
 - 💞️ I’m looking to collaborate on new champion
 - 📫 How to reach me,
+- Linkedin # https://www.linkedin.com/in/sangeethanata/
 - YouTube # https://www.youtube.com/c/NATASATech
 - Telgram # https://t.me/NATASATech
 - Wordpress # https://natasatech.wordpress.com/
